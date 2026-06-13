@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+logs/
+data/*.db
+venv/
+.venv/
+model/
+*.safetensors
+*.bin
+.DS_Store
+# 在.gitignore末尾添加
+.env
+*.env
